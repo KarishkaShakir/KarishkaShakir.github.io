@@ -1,0 +1,26 @@
+#main-title {
+    color: #49382c;
+    font-size: 50px;
+    text-align: center;
+    font-style: italic;
+}
+.foto{
+    background: linear-gradient(#FFF8DC, #543d2f);
+}
+p{
+    color: #0e0e0e;
+    font-size: 30px
+}
+ul{
+    color: #070707;
+    font-size: 25px;
+    list-style-type: disc;
+}
+.section{
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    border: 2px solid black;
+    width: 45%;
+}
